@@ -6,6 +6,8 @@ __pycache__
 media
 .idea/
 .vscode/
+staticfiles/
+
 
 
 # Python
@@ -17,6 +19,7 @@ __pycache__
 .env
 myvenv/
 venv/
+env/
 
 
 # Database
